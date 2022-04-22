@@ -1,0 +1,55 @@
+.heading {
+    font-family: 'Lobster Two';
+    text-align: left;
+    
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.super_big_mario {
+    width:100%
+}
+
+#status,#start {
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.images {
+    display: inline-block;
+    width: 45%;
+}
+
+.h31 {
+    margin: 0px;
+    line-height: 2;
+    color: black;
+    background-color: #15f4ee;   
+}
+
+h4 {
+    background-color: #DCAE96;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Bebas Neue';
+    
+    line-height: 2;
+}
+
+video {
+    background:url("game_console.png") ;
+    background-position: center;
+    background-size: cover;
+    padding: 25px;
+}
